@@ -1,3 +1,31 @@
 {
-
+  "common": {
+    "version": "Versione",
+    "title": "Minimale Sole Luna",
+    "title_card": "Card Sole Luna Minimale",
+    "description": "Una Card minimale per visualizzare lo stato del sole e della luna.",
+    "invalid_configuration": "Configurazione invalida"
+  },
+  "editor": {
+    "moon_entity": "Entità luna (Opzionale)"
+  },
+  "errors": {
+    "missing_moon_entity": "moon_entity è mancante nella configurazione",
+    "invalid_icon_type": "I seguenti colori nella tua configurazione sono invalidi:"
+  },
+  "card": {
+    "moon_phase": "Fase Lunare",
+    "moon_rise": "Alba della luna",
+    "moon_set": "Tramonto della luna"
+  },
+  "moon": {
+    "new_moon": "Luna Nuova",
+    "waxing_crescent": "Luna Crescente",
+    "first_quarter": "Primo Quarto",
+    "waxing_gibbous": "Gibbosa crescente",
+    "full_moon": "Luna Piena",
+    "waning_gibbous": "Gibbosa Calante",
+    "last_quarter": "Ultimo Quarto",
+    "waning_crescent": "Luna Calante"
+  }
 }
